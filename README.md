@@ -1,6 +1,7 @@
 # Performative Transactions - Docs
 
 Deployed at: https://pt-docs.netlify.app/
+(Push to branch/main to automatically deploy the update.)
 
 ## Edit docs:
 
