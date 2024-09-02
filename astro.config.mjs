@@ -11,16 +11,23 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Welcome',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Welcome', slug: 'introduction/welcome' },
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Performative Transactions',
+					items: [
+						{ label: 'Performative Transactions', slug: 'performative_transactions/performative_transactions' },
+					],
 				},
+				{
+					label: 'Further reading',
+					items: [
+						{ label: 'Further reading', slug: 'further_reading/further_reading' },
+					],
+				}
 			],
 		}),
 	],
