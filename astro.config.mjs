@@ -14,12 +14,32 @@ export default defineConfig({
 					label: 'Welcome',
 					items: [
 						{ label: 'Welcome', slug: 'introduction/welcome' },
+						{ label: 'Installation', slug: 'introduction/installation' },
+						{ label: 'Quick Start', slug: 'introduction/quick_start_example' },
 					],
 				},
 				{
 					label: 'Performative Transactions',
 					items: [
 						{ label: 'Performative Transactions', slug: 'performative_transactions/performative_transactions' },
+					],
+				},
+				{
+					label: 'Tutorial',
+					items: [
+						{ label: 'Tutorial', slug: 'tutorial/tutorial' },
+					],
+				},
+				{
+					label: 'API',
+					items: [
+						{ label: 'API', slug: 'api/api' },
+					],
+				},
+				{
+					label: 'Examples',
+					items: [
+						{ label: 'Examples', slug: 'examples/examples' },
 					],
 				},
 				{
