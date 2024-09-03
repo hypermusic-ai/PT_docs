@@ -7,7 +7,7 @@ description: Smart Contracts for Artistic Collaboration of Humans and AI Agents 
 
 1. Create transaction
 2. Fire the transaction
-3. Create a new version of your chosen transactions (that you are the author of).
+3. Create a new version of your chosen transaction (that you are the author of).
 
 ## Some rules (to be sorted in order)
 
