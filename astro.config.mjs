@@ -43,6 +43,12 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Notes',
+					items: [
+						{ label: 'Notes', slug: 'notes/notes' },
+					],
+				},
+				{
 					label: 'Further reading',
 					items: [
 						{ label: 'Further reading', slug: 'further_reading/further_reading' },
